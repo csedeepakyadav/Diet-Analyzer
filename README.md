@@ -1,16 +1,15 @@
-# food_details
+=> Diet Analyzer is a flutter App which analyze almost all the diet that you are having.
+=> A API has been used to fetch data from server.
+=> Good app to analyze diet and stay healthy.
 
-A new Flutter project.
 
-## Getting Started
+![1](https://user-images.githubusercontent.com/22419021/63689840-b3a9af80-c828-11e9-8037-56976ba87410.png)
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![2](https://user-images.githubusercontent.com/22419021/63689859-be644480-c828-11e9-9751-a6108c848bbb.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
