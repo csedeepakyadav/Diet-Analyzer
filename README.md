@@ -1,6 +1,6 @@
-=> Diet Analyzer is a flutter App which analyze almost all the diet that you are having.
-=> A API has been used to fetch data from server.
-=> Good app to analyze diet and stay healthy.
+=> Diet Analyzer is a flutter App which analyze almost all the diet that you are having.<br>
+=> A API has been used to fetch data from server.<br>
+=> Good app to analyze diet and stay healthy.<br>
 
 
 ![1](https://user-images.githubusercontent.com/22419021/63689840-b3a9af80-c828-11e9-8037-56976ba87410.png)
